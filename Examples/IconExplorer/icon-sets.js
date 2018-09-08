@@ -6,6 +6,7 @@ import FontAwesome from 'react-native-vector-icons/FontAwesome';
 import FontAwesome5 from 'react-native-vector-icons/FontAwesome5';
 import Foundation from 'react-native-vector-icons/Foundation';
 import Ionicons from 'react-native-vector-icons/Ionicons';
+import Ionicons3 from 'react-native-vector-icons/Ionicons3';
 import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
 import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
 import Octicons from 'react-native-vector-icons/Octicons';
@@ -17,6 +18,7 @@ import FontAwesomeGlyphs from 'react-native-vector-icons/glyphmaps/FontAwesome.j
 import FontAwesome5Glyphs from 'react-native-vector-icons/glyphmaps/FontAwesome5Free.json';
 import FoundationGlyphs from 'react-native-vector-icons/glyphmaps/Foundation.json';
 import IoniconsGlyphs from 'react-native-vector-icons/glyphmaps/Ionicons.json';
+import Ionicons3Glyphs from 'react-native-vector-icons/glyphmaps/Ionicons3.json';
 import MaterialIconsGlyphs from 'react-native-vector-icons/glyphmaps/MaterialIcons.json';
 import MaterialCommunityIconsGlyphs from 'react-native-vector-icons/glyphmaps/MaterialCommunityIcons.json';
 import OcticonsGlyphs from 'react-native-vector-icons/glyphmaps/Octicons.json';
@@ -30,6 +32,7 @@ const GLYPH_MAPS = {
   FontAwesome5: FontAwesome5Glyphs,
   Foundation: FoundationGlyphs,
   Ionicons: IoniconsGlyphs,
+  Ionicons3: Ionicons3Glyphs,
   MaterialIcons: MaterialIconsGlyphs,
   MaterialCommunityIcons: MaterialCommunityIconsGlyphs,
   Octicons: OcticonsGlyphs,
@@ -44,6 +47,7 @@ const ICON_SETS = {
   FontAwesome5,
   Foundation,
   Ionicons,
+  Ionicons3,
   MaterialIcons,
   MaterialCommunityIcons,
   Octicons,
